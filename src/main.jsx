@@ -6,7 +6,8 @@ import { BrowserRouter } from 'react-router-dom'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    {/* Add basename here */}
+    <BrowserRouter basename="/guardsosweb">
       <App />
     </BrowserRouter>
   </StrictMode>,
