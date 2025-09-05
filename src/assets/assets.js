@@ -19,7 +19,7 @@ import banner from './banner.svg';
 import profile from './profile.svg';
 import Testimonial_img from './testimonial_img.svg';
 import image_box from './image_box.svg';
-import about_img from './about_img.svg';
+import about_img from './About_img.svg';
 import app from './app.svg';
 import tick_icon from './tick_icon.svg';
 import expert_icon from './expert_icon.svg';
