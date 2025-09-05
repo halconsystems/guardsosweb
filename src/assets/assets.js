@@ -5,21 +5,21 @@ import instagram_icon from './instagram.svg';
 import linkedin_icon from './linkedin_icon.png';
 import mail_icon from './mail_icon.svg';
 import phone_icon from './phone.svg';
-import Cloud from './herobg_1.svg'
-import Operation from './herobg_2.svg'
-import Dedicated from './herobg_3.svg'
+import Cloud from './herobg_1.svg';
+import Operation from './herobg_2.svg';
+import Dedicated from './herobg_3.svg';
 import arrow_icon from './arrow_icon.svg';
 import chart_icon from './chart.svg';
 import create_bg from './create_bg.svg';
 import engage_bg from './engage_bg.svg';
 import grow_bg from './grow_bg.svg';
 import arrow from './arrow.svg';
-import banner_bg from './banner_bg.svg'
-import banner from './banner.svg'
-import profile from './profile.svg'
-import Testimonial_img from './Testimonial_img.svg';
+import banner_bg from './banner_bg.svg';
+import banner from './banner.svg';
+import profile from './profile.svg';
+import Testimonial_img from './testimonial_img.svg';
 import image_box from './image_box.svg';
-import about_img from './about_img.svg';    
+import about_img from './about_img.svg';
 import app from './app.svg';
 import tick_icon from './tick_icon.svg';
 import expert_icon from './expert_icon.svg';
@@ -32,59 +32,57 @@ import secured_icon from './secured_icon.svg';
 import trophy_icon from './trophy_icon.svg';
 import standard_icon from './standard_icon.svg';
 import globe_icon from './globe_icon.svg';
-import basic_icon from './basic_icon.svg'
-import advance_icon from './advance_icon.svg'
-import enterprise_icon from './enterprise_icon.svg'
-import menu_icon from './menu_icon.png'
-import check_icon from './check_icon.svg'
-import white_check from './white_check.svg'
-import cross_icon from './cross_icon.svg'
+import basic_icon from './basic_icon.svg';
+import advance_icon from './advance_icon.svg';
+import enterprise_icon from './enterprise_icon.svg';
+import menu_icon from './menu_icon.png';
+import check_icon from './check_icon.svg';
+import white_check from './white_check.svg';
+import cross_icon from './cross_icon.svg';
+
 export const assets = {
-    facebook_icon,
-    youtube_icon,
-    twitter_icon,
-    instagram_icon,
-    linkedin_icon,
-    mail_icon,
-    phone_icon,
-    Cloud,
-    Operation,
-    Dedicated,
-    arrow_icon,
-    chart_icon,
-    grow_bg,
-    create_bg,
-    engage_bg,
-    arrow,
-    banner_bg,
-    banner,
-    profile,
-    Testimonial_img,
-    image_box,
-    about_img,
-    app,
-    tick_icon,
-    expert_icon,
-    trained_icon,
-    record_icon,
-    security_icon,
-    technology_icon,
-    support_icon,
-    secured_icon,
-    trophy_icon,
-    standard_icon,
-    globe_icon,
-    basic_icon ,
-    advance_icon,
-    enterprise_icon,
-    menu_icon,
-    check_icon,
-    white_check,
-    cross_icon
-
-
-}
-
+  facebook_icon,
+  youtube_icon,
+  twitter_icon,
+  instagram_icon,
+  linkedin_icon,
+  mail_icon,
+  phone_icon,
+  Cloud,
+  Operation,
+  Dedicated,
+  arrow_icon,
+  chart_icon,
+  grow_bg,
+  create_bg,
+  engage_bg,
+  arrow,
+  banner_bg,
+  banner,
+  profile,
+  Testimonial_img,
+  image_box,
+  about_img,
+  app,
+  tick_icon,
+  expert_icon,
+  trained_icon,
+  record_icon,
+  security_icon,
+  technology_icon,
+  support_icon,
+  secured_icon,
+  trophy_icon,
+  standard_icon,
+  globe_icon,
+  basic_icon,
+  advance_icon,
+  enterprise_icon,
+  menu_icon,
+  check_icon,
+  white_check,
+  cross_icon,
+};
 
 export const  featureData = [
     { type: 'heading', name: 'Pricing' },
